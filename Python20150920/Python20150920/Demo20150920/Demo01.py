@@ -1,5 +1,5 @@
 #__author__ = 'yangfs'
-# -*- coding:utf-8 -*-
+
 # /Users/yangfs/Desktop/B/Backup20150529/20150810_ios/trunk_Src20150920/Script20150920/Python20150920/Python20150920/Demo20150920
 # /Users/yangfs/Desktop/E/Instrument_20150915/环境配置
 
@@ -12,6 +12,8 @@
 # PyCharm 当前版本 PyCharm4.5
 # */
 
+# 让脚本支持中文输出
+# -*- coding:utf-8 -*-
 print("hello, python!")
 
 
