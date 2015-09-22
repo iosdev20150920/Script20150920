@@ -25,7 +25,7 @@ python 中多行注释使用三个单引号(' _' ')或三个单引号(" _" ")。
 import time; # 导入时间模块
 print("hello, python!")
 
-print("hello, python Demo 测试！")
+print("hello, python 【Demo01.py】 测试！")
 
 ticks = time.time();
 print("time:", ticks);
