@@ -1,0 +1,484 @@
+Thu, 25 Jun 2015 06:50:13 TestDriver.py[line:105] INFO S:weather_open pass
+Thu, 25 Jun 2015 06:50:13 TestDriver.py[line:105] INFO S:weather_close pass
+Thu, 25 Jun 2015 06:50:33 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 06:50:33 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 06:50:38 TestDriver.py[line:89] INFO click:书签/历史
+Thu, 25 Jun 2015 06:50:45 TestDriver.py[line:89] INFO click:百度搜索
+Thu, 25 Jun 2015 07:02:22 TestDriver.py[line:105] INFO S:weather_open pass
+Thu, 25 Jun 2015 07:02:22 TestDriver.py[line:105] INFO S:weather_close pass
+Thu, 25 Jun 2015 07:02:42 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:02:42 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:02:47 TestDriver.py[line:89] INFO click:书签/历史
+Thu, 25 Jun 2015 07:02:54 TestDriver.py[line:89] INFO click:百度搜索
+Thu, 25 Jun 2015 07:03:02 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:03:06 TestDriver.py[line:89] INFO S:bookmark_001
+Thu, 25 Jun 2015 07:03:06 action_word.py[line:117] INFO scene pass:bookmark_001
+Thu, 25 Jun 2015 07:03:31 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:03:31 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:03:35 TestDriver.py[line:89] INFO click:书签/历史
+Thu, 25 Jun 2015 07:03:43 TestDriver.py[line:89] INFO cell_swipe:每日资讯
+Thu, 25 Jun 2015 07:03:52 TestDriver.py[line:89] INFO click:删除
+Thu, 25 Jun 2015 07:04:00 TestDriver.py[line:89] INFO click:back
+Thu, 25 Jun 2015 07:04:05 TestDriver.py[line:89] INFO S:bookmark_002
+Thu, 25 Jun 2015 07:04:05 action_word.py[line:117] INFO scene pass:bookmark_002
+Thu, 25 Jun 2015 07:04:28 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:04:28 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:04:33 TestDriver.py[line:89] INFO click:UCCloudSyncLogin
+Thu, 25 Jun 2015 07:04:38 TestDriver.py[line:89] INFO click:登录淘宝送积分
+Thu, 25 Jun 2015 07:04:45 TestDriver.py[line:89] INFO click:back@2x
+Thu, 25 Jun 2015 07:04:50 TestDriver.py[line:89] INFO S:taobao_close
+Thu, 25 Jun 2015 07:04:50 action_word.py[line:117] INFO scene pass:taobao_close
+Thu, 25 Jun 2015 07:05:14 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:05:14 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:05:18 TestDriver.py[line:89] INFO click:UCCloudSyncLogin
+Thu, 25 Jun 2015 07:05:23 TestDriver.py[line:89] INFO click:LoginChannel0
+Thu, 25 Jun 2015 07:05:31 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:05:35 TestDriver.py[line:89] INFO S:webview_qq_login
+Thu, 25 Jun 2015 07:05:35 action_word.py[line:117] INFO scene pass:webview_qq_login
+Thu, 25 Jun 2015 07:05:58 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:05:58 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:06:02 TestDriver.py[line:89] INFO click:UCCloudSyncLogin
+Thu, 25 Jun 2015 07:06:07 TestDriver.py[line:89] INFO click:LoginChannel1
+Thu, 25 Jun 2015 07:06:14 TestDriver.py[line:89] INFO click:SinaweiboCloseButton
+Thu, 25 Jun 2015 07:06:19 TestDriver.py[line:89] INFO S:weibo_close
+Thu, 25 Jun 2015 07:06:19 action_word.py[line:117] INFO scene pass:weibo_close
+Thu, 25 Jun 2015 07:06:42 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:06:42 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:06:47 TestDriver.py[line:89] INFO click:UCCloudSyncLogin
+Thu, 25 Jun 2015 07:06:52 TestDriver.py[line:89] INFO click:LoginChannel2
+Thu, 25 Jun 2015 07:06:59 TestDriver.py[line:89] INFO click:SmallBox_RightBtn
+Thu, 25 Jun 2015 07:07:07 TestDriver.py[line:89] INFO S:smallbox_close
+Thu, 25 Jun 2015 07:07:07 action_word.py[line:117] INFO scene pass:smallbox_close
+Thu, 25 Jun 2015 07:07:30 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:07:30 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:07:35 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 07:07:42 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 07:07:42 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 07:08:43 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 07:08:50 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 07:08:52 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 07:08:57 TestDriver.py[line:89] INFO click:bookReader_chapterClick_3
+Thu, 25 Jun 2015 07:09:05 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 07:09:07 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 07:09:12 TestDriver.py[line:89] INFO S:RD_1
+Thu, 25 Jun 2015 07:09:12 action_word.py[line:117] INFO scene pass:RD_1
+Thu, 25 Jun 2015 07:09:34 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:09:34 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:09:39 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 07:09:46 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 07:09:46 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 07:10:43 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 07:10:50 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 07:10:53 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 07:10:57 TestDriver.py[line:89] INFO click:NB.Catalogue.sort
+Thu, 25 Jun 2015 07:11:02 TestDriver.py[line:89] INFO click:NB.Catalogue.sort
+Thu, 25 Jun 2015 07:11:07 TestDriver.py[line:89] INFO S:RD_2
+Thu, 25 Jun 2015 07:11:07 action_word.py[line:117] INFO scene pass:RD_2
+Thu, 25 Jun 2015 07:11:30 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:11:30 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:11:34 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 07:11:42 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 07:11:42 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 07:12:40 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 07:12:47 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 07:12:49 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 07:12:54 TestDriver.py[line:89] INFO click:bookReader_skin3
+Thu, 25 Jun 2015 07:12:59 TestDriver.py[line:89] INFO wait:3
+Thu, 25 Jun 2015 07:13:02 TestDriver.py[line:89] INFO click_u
+Thu, 25 Jun 2015 07:13:05 TestDriver.py[line:89] INFO S:RD_3
+Thu, 25 Jun 2015 07:13:05 action_word.py[line:117] INFO scene pass:RD_3
+Thu, 25 Jun 2015 07:13:29 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:13:29 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:13:33 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 07:13:41 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 07:13:41 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 07:14:38 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 07:14:45 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 07:14:48 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 07:14:52 TestDriver.py[line:89] INFO click:bookReaderFont_increase:2
+Thu, 25 Jun 2015 07:15:01 TestDriver.py[line:89] INFO click_u
+Thu, 25 Jun 2015 07:15:04 TestDriver.py[line:89] INFO S:RD_4
+Thu, 25 Jun 2015 07:15:04 action_word.py[line:117] INFO scene pass:RD_4
+Thu, 25 Jun 2015 07:15:28 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 07:15:28 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 07:15:32 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 07:15:40 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 07:15:40 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 07:16:21 TestDriver.py[line:96] ERROR NB.reader_init: ''
+Thu, 25 Jun 2015 09:21:18 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:21:18 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:21:22 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:21:29 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:21:29 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:22:27 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:22:34 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:22:36 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 09:22:41 TestDriver.py[line:89] INFO check:RD_001
+Thu, 25 Jun 2015 09:22:41 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:22:45 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:22:45 action_word.py[line:229] INFO RD_001 check pass
+Thu, 25 Jun 2015 09:22:45 TestDriver.py[line:89] INFO click:bookReader_chapterClick_3
+Thu, 25 Jun 2015 09:22:52 TestDriver.py[line:89] INFO check:RD_002
+Thu, 25 Jun 2015 09:22:52 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:22:54 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:22:54 action_word.py[line:229] INFO RD_002 check pass
+Thu, 25 Jun 2015 09:22:54 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:22:56 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 09:23:01 TestDriver.py[line:89] INFO check:RD_003
+Thu, 25 Jun 2015 09:23:01 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:23:03 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:23:03 action_word.py[line:229] INFO RD_003 check pass
+Thu, 25 Jun 2015 09:23:03 TestDriver.py[line:89] INFO S:RD_1
+Thu, 25 Jun 2015 09:23:03 action_word.py[line:117] INFO scene pass:RD_1
+Thu, 25 Jun 2015 09:23:29 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:23:29 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:23:33 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:23:41 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:23:41 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:24:38 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:24:45 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:24:47 TestDriver.py[line:89] INFO click:bookReader_chapter
+Thu, 25 Jun 2015 09:24:52 TestDriver.py[line:89] INFO click:NB.Catalogue.sort
+Thu, 25 Jun 2015 09:24:57 TestDriver.py[line:89] INFO check:0,0.5,1,1:RD_004
+Thu, 25 Jun 2015 09:24:57 picture.py[line:30] INFO 截图起点坐标: 0,568 截图终点坐标: 640,1136
+Thu, 25 Jun 2015 09:24:59 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:24:59 action_word.py[line:229] INFO RD_004 check pass
+Thu, 25 Jun 2015 09:24:59 TestDriver.py[line:89] INFO click:NB.Catalogue.sort
+Thu, 25 Jun 2015 09:25:03 TestDriver.py[line:89] INFO S:RD_2
+Thu, 25 Jun 2015 09:25:03 action_word.py[line:117] INFO scene pass:RD_2
+Thu, 25 Jun 2015 09:25:26 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:25:26 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:25:31 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:25:38 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:25:38 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:26:36 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:26:43 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:26:45 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:26:50 TestDriver.py[line:89] INFO check:RD_005
+Thu, 25 Jun 2015 09:26:50 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:26:52 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:26:52 action_word.py[line:229] INFO RD_005 check pass
+Thu, 25 Jun 2015 09:26:52 TestDriver.py[line:89] INFO click:bookReader_skin3
+Thu, 25 Jun 2015 09:26:57 TestDriver.py[line:89] INFO wait:5
+Thu, 25 Jun 2015 09:27:02 TestDriver.py[line:89] INFO click_u
+Thu, 25 Jun 2015 09:27:05 TestDriver.py[line:89] INFO check:RD_006
+Thu, 25 Jun 2015 09:27:05 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:27:08 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:27:08 action_word.py[line:229] INFO RD_006 check pass
+Thu, 25 Jun 2015 09:27:08 TestDriver.py[line:89] INFO S:RD_3
+Thu, 25 Jun 2015 09:27:08 action_word.py[line:117] INFO scene pass:RD_3
+Thu, 25 Jun 2015 09:27:33 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:27:33 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:27:38 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:27:45 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:27:45 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:28:43 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:28:50 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:28:52 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:28:57 TestDriver.py[line:89] INFO click:bookReaderFont_increase:2
+Thu, 25 Jun 2015 09:29:05 TestDriver.py[line:89] INFO click_u
+Thu, 25 Jun 2015 09:29:08 TestDriver.py[line:89] INFO check:RD_007
+Thu, 25 Jun 2015 09:29:08 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:29:11 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:29:11 action_word.py[line:229] INFO RD_007 check pass
+Thu, 25 Jun 2015 09:29:11 TestDriver.py[line:89] INFO S:RD_4
+Thu, 25 Jun 2015 09:29:11 action_word.py[line:117] INFO scene pass:RD_4
+Thu, 25 Jun 2015 09:29:38 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:29:38 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:29:42 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:29:50 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:29:50 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:30:50 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:30:58 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:31:00 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:31:05 TestDriver.py[line:89] INFO click:NB.BottomBar.MoreSetting.Button
+Thu, 25 Jun 2015 09:31:10 TestDriver.py[line:89] INFO click:NB.MoreSetting.Updown
+Thu, 25 Jun 2015 09:31:18 TestDriver.py[line:89] INFO click:back
+Thu, 25 Jun 2015 09:31:23 TestDriver.py[line:89] INFO click_d:2
+Thu, 25 Jun 2015 09:31:27 TestDriver.py[line:89] INFO check:RD_008
+Thu, 25 Jun 2015 09:31:27 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:31:30 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:31:30 action_word.py[line:229] INFO RD_008 check pass
+Thu, 25 Jun 2015 09:31:30 TestDriver.py[line:89] INFO S:RD_6
+Thu, 25 Jun 2015 09:31:30 action_word.py[line:117] INFO scene pass:RD_6
+Thu, 25 Jun 2015 09:31:53 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:31:53 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:31:58 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:32:05 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:32:05 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:33:03 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:33:10 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:33:12 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:33:17 TestDriver.py[line:89] INFO click:NB.BottomBar.MoreSetting.Button
+Thu, 25 Jun 2015 09:33:22 TestDriver.py[line:89] INFO click:NB.MoreSetting.Simulate
+Thu, 25 Jun 2015 09:33:30 TestDriver.py[line:89] INFO click:back
+Thu, 25 Jun 2015 09:33:35 TestDriver.py[line:89] INFO click_r:2
+Thu, 25 Jun 2015 09:33:39 TestDriver.py[line:89] INFO check:RD_009
+Thu, 25 Jun 2015 09:33:39 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:33:54 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:33:54 action_word.py[line:229] INFO RD_009 check pass
+Thu, 25 Jun 2015 09:33:54 TestDriver.py[line:89] INFO S:RD_7
+Thu, 25 Jun 2015 09:33:54 action_word.py[line:117] INFO scene pass:RD_7
+Thu, 25 Jun 2015 09:34:18 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:34:18 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:34:22 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:34:30 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:34:30 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:35:27 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:35:35 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:35:37 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:35:41 TestDriver.py[line:89] INFO click:NB.BottomBar.MoreSetting.Button
+Thu, 25 Jun 2015 09:35:46 TestDriver.py[line:89] INFO click:NB.MoreSetting.Cascade
+Thu, 25 Jun 2015 09:35:54 TestDriver.py[line:89] INFO click:back
+Thu, 25 Jun 2015 09:35:59 TestDriver.py[line:89] INFO click_r:2
+Thu, 25 Jun 2015 09:36:03 TestDriver.py[line:89] INFO check:RD_010
+Thu, 25 Jun 2015 09:36:03 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:36:06 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:36:06 action_word.py[line:229] INFO RD_010 check pass
+Thu, 25 Jun 2015 09:36:06 TestDriver.py[line:89] INFO S:RD_8
+Thu, 25 Jun 2015 09:36:06 action_word.py[line:117] INFO scene pass:RD_8
+Thu, 25 Jun 2015 09:36:30 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:36:30 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:36:34 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:36:42 TestDriver.py[line:89] INFO module:阅读器
+Thu, 25 Jun 2015 09:36:42 TestDriver.py[line:89] INFO NB.reader_init
+Thu, 25 Jun 2015 09:37:39 TestDriver.py[line:89] INFO click:孙子兵法
+Thu, 25 Jun 2015 09:37:47 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:37:49 TestDriver.py[line:89] INFO slider:NB.Chapter.Setting.ChapterSlider:1
+Thu, 25 Jun 2015 09:37:52 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:37:56 TestDriver.py[line:89] INFO click:bookReader_skin3
+Thu, 25 Jun 2015 09:38:01 TestDriver.py[line:89] INFO wait:3
+Thu, 25 Jun 2015 09:38:04 TestDriver.py[line:89] INFO click_u
+Thu, 25 Jun 2015 09:38:08 TestDriver.py[line:89] INFO click_r:2
+Thu, 25 Jun 2015 09:38:12 TestDriver.py[line:89] INFO check:RD_011
+Thu, 25 Jun 2015 09:38:12 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:38:14 action_word.py[line:226] INFO 相似度: 100.0
+Thu, 25 Jun 2015 09:38:14 action_word.py[line:229] INFO RD_011 check pass
+Thu, 25 Jun 2015 09:38:14 TestDriver.py[line:89] INFO click_m
+Thu, 25 Jun 2015 09:38:16 TestDriver.py[line:89] INFO click:bookReader_setting
+Thu, 25 Jun 2015 09:38:20 TestDriver.py[line:89] INFO click:bookReader_skin0
+Thu, 25 Jun 2015 09:38:25 TestDriver.py[line:89] INFO wait:3
+Thu, 25 Jun 2015 09:38:28 TestDriver.py[line:89] INFO S:RD_9
+Thu, 25 Jun 2015 09:38:28 action_word.py[line:117] INFO scene pass:RD_9
+Thu, 25 Jun 2015 09:38:53 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:38:53 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:38:58 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:39:05 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:39:05 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:39:26 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:40:01 TestDriver.py[line:89] INFO NB.check_bookshelf:FM_001
+Thu, 25 Jun 2015 09:40:01 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:40:04 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:40:06 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:40:06 NB.py[line:85] INFO FM_001: pass
+Thu, 25 Jun 2015 09:40:06 TestDriver.py[line:89] INFO move_to:孙子兵法:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:40:17 TestDriver.py[line:89] INFO click:RightEditButton
+Thu, 25 Jun 2015 09:40:22 TestDriver.py[line:89] INFO NB.check_bookshelf:FM_002
+Thu, 25 Jun 2015 09:40:22 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:40:24 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:40:27 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:40:27 NB.py[line:85] INFO FM_002: pass
+Thu, 25 Jun 2015 09:40:27 TestDriver.py[line:89] INFO NB.delete_book:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:40:41 TestDriver.py[line:89] INFO S:FM_1
+Thu, 25 Jun 2015 09:40:41 action_word.py[line:117] INFO scene pass:FM_1
+Thu, 25 Jun 2015 09:41:06 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:41:06 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:41:10 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:41:17 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:41:17 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:41:38 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:42:19 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 09:42:26 TestDriver.py[line:89] INFO NB.check_bookshelf:FM_003
+Thu, 25 Jun 2015 09:42:26 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:42:28 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:42:31 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:42:31 NB.py[line:85] INFO FM_003: pass
+Thu, 25 Jun 2015 09:42:31 TestDriver.py[line:89] INFO click:RightEditButton
+Thu, 25 Jun 2015 09:42:35 TestDriver.py[line:89] INFO NB.delete_book:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:42:49 TestDriver.py[line:89] INFO S:FM_2
+Thu, 25 Jun 2015 09:42:49 action_word.py[line:117] INFO scene pass:FM_2
+Thu, 25 Jun 2015 09:43:13 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:43:13 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:43:18 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:43:25 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:43:25 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:43:45 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:44:21 TestDriver.py[line:89] INFO NB.add_book:大主宰
+Thu, 25 Jun 2015 09:44:57 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 09:45:04 TestDriver.py[line:89] INFO click:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:45:11 TestDriver.py[line:89] INFO click:大主宰
+Thu, 25 Jun 2015 09:45:19 TestDriver.py[line:89] INFO click:NB.BookShelf.Delete
+Thu, 25 Jun 2015 09:45:23 TestDriver.py[line:89] INFO click:删除选中小说
+Thu, 25 Jun 2015 09:45:33 TestDriver.py[line:89] INFO NB.check_bookshelf:FM_004
+Thu, 25 Jun 2015 09:45:33 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:45:35 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:45:37 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:45:37 NB.py[line:85] INFO FM_004: pass
+Thu, 25 Jun 2015 09:45:37 TestDriver.py[line:89] INFO S:FM_3
+Thu, 25 Jun 2015 09:45:37 action_word.py[line:117] INFO scene pass:FM_3
+Thu, 25 Jun 2015 09:46:04 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:46:04 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:46:09 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:46:16 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:46:16 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:46:39 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:47:20 TestDriver.py[line:89] INFO NB.add_book:大主宰
+Thu, 25 Jun 2015 09:47:56 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 09:48:04 TestDriver.py[line:89] INFO click:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:48:12 TestDriver.py[line:89] INFO click:大主宰
+Thu, 25 Jun 2015 09:48:20 TestDriver.py[line:89] INFO click:NB.BookShelf.Cache
+Thu, 25 Jun 2015 09:48:24 TestDriver.py[line:89] INFO wait:15
+Thu, 25 Jun 2015 09:48:39 TestDriver.py[line:89] INFO NB.check_bookshelf:FM_005
+Thu, 25 Jun 2015 09:48:39 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:48:42 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:48:44 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:48:44 NB.py[line:85] INFO FM_005: pass
+Thu, 25 Jun 2015 09:48:44 TestDriver.py[line:89] INFO S:FM_4
+Thu, 25 Jun 2015 09:48:44 action_word.py[line:117] INFO scene pass:FM_4
+Thu, 25 Jun 2015 09:49:08 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:49:08 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:49:13 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:49:20 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:49:20 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:49:58 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:50:34 TestDriver.py[line:89] INFO click:服务声明
+Thu, 25 Jun 2015 09:50:41 TestDriver.py[line:89] INFO wait:3
+Thu, 25 Jun 2015 09:50:44 TestDriver.py[line:89] INFO check:FM_006
+Thu, 25 Jun 2015 09:50:44 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,1096
+Thu, 25 Jun 2015 09:50:47 action_word.py[line:226] INFO 相似度: 99.0023825763
+Thu, 25 Jun 2015 09:50:47 action_word.py[line:229] INFO FM_006 check pass
+Thu, 25 Jun 2015 09:50:47 TestDriver.py[line:89] INFO delete_windows
+Thu, 25 Jun 2015 09:50:57 TestDriver.py[line:89] INFO S:FM_5
+Thu, 25 Jun 2015 09:50:57 action_word.py[line:117] INFO scene pass:FM_5
+Thu, 25 Jun 2015 09:51:21 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:51:21 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:51:26 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:51:33 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:51:33 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:52:08 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:52:44 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:52:51 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 09:52:58 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_001
+Thu, 25 Jun 2015 09:52:58 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:53:00 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:53:03 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:53:03 NB.py[line:85] INFO LB_001: pass
+Thu, 25 Jun 2015 09:53:03 TestDriver.py[line:89] INFO click:RightEditButton
+Thu, 25 Jun 2015 09:53:07 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:53:14 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_002
+Thu, 25 Jun 2015 09:53:14 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:53:17 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:53:19 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:53:19 NB.py[line:85] INFO LB_002: pass
+Thu, 25 Jun 2015 09:53:19 TestDriver.py[line:89] INFO S:LB_1
+Thu, 25 Jun 2015 09:53:19 action_word.py[line:117] INFO scene pass:LB_1
+Thu, 25 Jun 2015 09:53:44 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:53:44 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:53:48 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:53:55 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:53:55 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:54:30 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:55:06 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:55:13 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_003
+Thu, 25 Jun 2015 09:55:13 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:55:16 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:55:18 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:55:18 NB.py[line:85] INFO LB_003: pass
+Thu, 25 Jun 2015 09:55:18 TestDriver.py[line:89] INFO long_press:斗罗大陆II绝世唐门:2
+Thu, 25 Jun 2015 09:55:24 TestDriver.py[line:89] INFO move_to:孙子兵法:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:55:43 TestDriver.py[line:89] INFO click:RightEditButton
+Thu, 25 Jun 2015 09:55:47 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_004
+Thu, 25 Jun 2015 09:55:47 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:55:50 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:55:52 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:55:52 NB.py[line:85] INFO LB_004: pass
+Thu, 25 Jun 2015 09:55:52 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:55:59 TestDriver.py[line:89] INFO S:LB_2
+Thu, 25 Jun 2015 09:55:59 action_word.py[line:117] INFO scene pass:LB_2
+Thu, 25 Jun 2015 09:56:24 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:56:24 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:56:28 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:56:36 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:56:36 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 09:57:11 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 09:57:46 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:57:54 TestDriver.py[line:89] INFO NB.add_book:斗破苍穹
+Thu, 25 Jun 2015 09:58:29 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 09:58:36 TestDriver.py[line:89] INFO click:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 09:58:43 TestDriver.py[line:89] INFO click:斗破苍穹
+Thu, 25 Jun 2015 09:58:51 TestDriver.py[line:89] INFO click:NB.BookShelf.Delete
+Thu, 25 Jun 2015 09:58:55 TestDriver.py[line:89] INFO click:删除选中小说
+Thu, 25 Jun 2015 09:59:04 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_005
+Thu, 25 Jun 2015 09:59:04 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 09:59:07 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 09:59:09 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 09:59:09 NB.py[line:85] INFO LB_005: pass
+Thu, 25 Jun 2015 09:59:09 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 09:59:16 TestDriver.py[line:89] INFO S:LB_3
+Thu, 25 Jun 2015 09:59:16 action_word.py[line:117] INFO scene pass:LB_3
+Thu, 25 Jun 2015 09:59:39 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 09:59:39 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 09:59:44 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 09:59:51 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 09:59:51 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 10:00:11 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 10:00:47 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:00:54 TestDriver.py[line:89] INFO NB.add_book:斗破苍穹
+Thu, 25 Jun 2015 10:01:30 TestDriver.py[line:89] INFO click:NB.BookShelf.Edit
+Thu, 25 Jun 2015 10:01:37 TestDriver.py[line:89] INFO click:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 10:01:44 TestDriver.py[line:89] INFO click:斗破苍穹
+Thu, 25 Jun 2015 10:01:51 TestDriver.py[line:89] INFO click:NB.BookShelf.Cache
+Thu, 25 Jun 2015 10:01:56 TestDriver.py[line:89] INFO wait:15
+Thu, 25 Jun 2015 10:02:11 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_006
+Thu, 25 Jun 2015 10:02:11 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 10:02:14 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 10:02:16 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 10:02:16 NB.py[line:85] INFO LB_006: pass
+Thu, 25 Jun 2015 10:02:16 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:02:23 TestDriver.py[line:89] INFO S:LB_4
+Thu, 25 Jun 2015 10:02:23 action_word.py[line:117] INFO scene pass:LB_4
+Thu, 25 Jun 2015 10:02:48 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 10:02:48 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 10:02:53 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 10:03:01 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 10:03:01 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 10:03:41 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 10:04:17 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:04:25 TestDriver.py[line:89] INFO cell_swipe:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 10:04:34 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_007
+Thu, 25 Jun 2015 10:04:34 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 10:04:37 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 10:04:39 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 10:04:39 NB.py[line:85] INFO LB_007: pass
+Thu, 25 Jun 2015 10:04:39 TestDriver.py[line:89] INFO click:NB.BookShelf.CellCache
+Thu, 25 Jun 2015 10:04:46 TestDriver.py[line:89] INFO wait:15
+Thu, 25 Jun 2015 10:05:01 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_008
+Thu, 25 Jun 2015 10:05:01 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 10:05:04 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 10:05:06 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 10:05:06 NB.py[line:85] INFO LB_008: pass
+Thu, 25 Jun 2015 10:05:06 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:05:13 TestDriver.py[line:89] INFO S:LB_5
+Thu, 25 Jun 2015 10:05:13 action_word.py[line:117] INFO scene pass:LB_5
+Thu, 25 Jun 2015 10:05:43 TestDriver.py[line:89] INFO module:uc浏览器
+Thu, 25 Jun 2015 10:05:43 TestDriver.py[line:89] INFO click:Menu
+Thu, 25 Jun 2015 10:05:48 TestDriver.py[line:89] INFO click:我的小说
+Thu, 25 Jun 2015 10:05:55 TestDriver.py[line:89] INFO module:书架
+Thu, 25 Jun 2015 10:05:55 TestDriver.py[line:89] INFO NB.shelf_init
+Thu, 25 Jun 2015 10:06:30 TestDriver.py[line:89] INFO NB.add_book:斗罗大陆ii绝世唐门全文阅读
+Thu, 25 Jun 2015 10:07:05 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:07:12 TestDriver.py[line:89] INFO cell_swipe:斗罗大陆II绝世唐门
+Thu, 25 Jun 2015 10:07:21 TestDriver.py[line:89] INFO click:NB.BookShelf.CellDelete
+Thu, 25 Jun 2015 10:07:29 TestDriver.py[line:89] INFO NB.check_bookshelf:LB_009
+Thu, 25 Jun 2015 10:07:29 picture.py[line:30] INFO 截图起点坐标: 0,40 截图终点坐标: 640,250
+Thu, 25 Jun 2015 10:07:31 picture.py[line:30] INFO 截图起点坐标: 0,266 截图终点坐标: 640,926
+Thu, 25 Jun 2015 10:07:34 NB.py[line:82] INFO 相似度 p1: 100.0 p2: 100.0
+Thu, 25 Jun 2015 10:07:34 NB.py[line:85] INFO LB_009: pass
+Thu, 25 Jun 2015 10:07:34 TestDriver.py[line:89] INFO click:NB.BookShelf.Model
+Thu, 25 Jun 2015 10:07:40 TestDriver.py[line:89] INFO S:LB_6
+Thu, 25 Jun 2015 10:07:40 action_word.py[line:117] INFO scene pass:LB_6
+Fri, 26 Jun 2015 01:21:12 TestDriver.py[line:91] INFO module:uc浏览器
+Fri, 26 Jun 2015 01:21:12 TestDriver.py[line:91] INFO click:Menu
+Fri, 26 Jun 2015 01:21:16 TestDriver.py[line:91] INFO click:我的小说
+Fri, 26 Jun 2015 01:21:24 TestDriver.py[line:91] INFO module:阅读器
+Fri, 26 Jun 2015 01:21:24 TestDriver.py[line:91] INFO NB.reader_init

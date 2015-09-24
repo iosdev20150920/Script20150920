@@ -1,0 +1,1 @@
+pyinstaller -F -p E:\appium\autotest_02; E:\appium\autotest_02\demo\TestDriver.py
