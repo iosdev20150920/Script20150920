@@ -5,7 +5,7 @@ Created on 2014年10月10日
 @author: liupeng3
 '''
 
-import Image
+from PIL import Image
 
 def make_regalur_image(img, size = (256, 256)):
 	return img.resize(size).convert('RGB')

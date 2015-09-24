@@ -9,7 +9,7 @@ import copy
 import logging
 import logging.config
 from sc_action.libs import result, exe_status
-import Image
+from PIL import Image
 
 import histsimilar
 
