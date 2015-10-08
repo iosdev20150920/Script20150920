@@ -23,3 +23,24 @@ def addFun3(a, b):
     "【乘法】两数相加"
     sumExt = a * b
     return sumExt;
+
+def traversalWithFor1(a, b):
+    "for 循环，遍历数据信息"
+    text = "for 循环遍历：\n"
+    for i in range(a, b):
+        text = text + str(i) + ", "
+    text = text + "\n"
+
+    return text;
+
+def traversalWithWhile1(a, b):
+    "while 循环，遍历数据信息"
+    text = "while 循环遍历：\n"
+    i = a;
+    while (i < b):
+        text = text + str(i) + ", "
+        i = i + 1;
+
+    text = text + "\n"
+
+    return text;

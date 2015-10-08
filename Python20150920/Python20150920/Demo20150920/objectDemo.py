@@ -7,7 +7,7 @@ yangfs
 【04 类和对象】
 '''
 
-from DemoFont import *
+from class20150920.DemoFont import *
 
 fontDefault = DemoFont()
 
