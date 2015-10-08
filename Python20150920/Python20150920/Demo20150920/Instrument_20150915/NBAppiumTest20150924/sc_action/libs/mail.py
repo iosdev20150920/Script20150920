@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''
 发送txt文本邮件
-
+python邮件发送方法
 '''
 import smtplib  
 from email.mime.text import MIMEText
