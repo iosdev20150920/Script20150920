@@ -1,8 +1,8 @@
-__author__ = 'yangfs'
+# __author__ = 'yangfs'
 # -*- coding:utf-8 -*-
 
 from demo02_fun import *
-from function import *
+# from function import *
 # from function import *
 import time; # 导入时间模块
 
@@ -10,7 +10,7 @@ import time; # 导入时间模块
 # print sys.path
 v = 0;
 v = addFun(1, 2);
-print "a + b = ", v;
+print ("a + b = ", v);
 
 v = addFun2(1, 4);
 print "a + b = ", v;
@@ -20,3 +20,11 @@ print "a + b = ", v;
 
 v = sumFun(1, 2, 3)
 print "a + b + c = ", v;
+
+text = "打印遍历信息："
+for i in range(1, 10):
+    text = text + i + ", "
+    text = text + "\n"
+
+print text
+# traversalFor1(1, 10);

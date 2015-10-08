@@ -5,7 +5,8 @@
 import sys
 import os
 # sys.path.append("/Users/liupeng3/Desktop/autotest/x_test")
-sys.path.append("/Users/yangfs/Desktop/E/Instrument_20150915/NBTest")
+#sys.path.append("/Users/yangfs/Desktop/E/Instrument_20150915/NBTest")
+sys.path.append("/Users/yangfs/Desktop/B/Backup20150529/20150810_ios/trunk_Src20150920/Script20150920/Python20150920/Python20150920/Demo20150920/Instrument_20150915/NBAppiumTest20150924")
 import path
 from appium import webdriver
 from sc_action import const
