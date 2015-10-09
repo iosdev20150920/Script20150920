@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8"> <!--显示中文字符，否则出现乱码-->
+</head>
+<body>
+
+<h1>我的第一段 JavaScript</h1>
+
+<p id="demo">
+JavaScript 能改变 HTML 元素的内容。
+</p>
+
+<script>
+function myFunction()
+{
+x=document.getElementById("demo");  // 找到元素
+x.innerHTML="Hello JavaScript!";    // 改变内容
+}
+
+function testFun()
+{
+y=document.getElementById("demo");  // 找到元素
+y.innerHTML="点击按钮事件";
+// document.getElementById("demo").innerHTML="点击按钮事件"；
+}
+</script>
+
+
+<button type="button" onclick="myFunction()">点击这里</button>
+
+<button type="button" onclick="testFun()">点击按钮</button>
+
+</body>
+</html>
+
+
+
+
+
