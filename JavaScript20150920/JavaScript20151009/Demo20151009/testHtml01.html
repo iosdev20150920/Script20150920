@@ -12,25 +12,21 @@
 JavaScript 能改变 HTML 元素的内容。
 </p>
 
-<script>
-function myFunction()
-{
-x=document.getElementById("demo");  // 找到元素
-x.innerHTML="Hello JavaScript!";    // 改变内容
-}
 
-function testFun()
-{
-y=document.getElementById("demo");  // 找到元素
-y.innerHTML="点击按钮事件";
-// document.getElementById("demo").innerHTML="点击按钮事件"；
-}
-</script>
+<script type="text/javascript" src="JSFiles/test01.js"></script>
+<script type="text/javascript" src="JSFiles/test02.js"></script>
 
 
 <button type="button" onclick="myFunction()">点击这里</button>
 
 <button type="button" onclick="testFun()">点击按钮</button>
+
+<br />
+<br />
+<p id="tag1">响应事件，修改标签文本。</p>
+<button type="button" onclick="modifyTagName1()">按钮 1</button>
+<br />
+<button type="button" onclick="modifyTagName2()">按钮 2</button>
 
 </body>
 </html>
