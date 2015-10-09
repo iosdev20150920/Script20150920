@@ -23,6 +23,10 @@ http://www.2cto.com/kf/201312/262436.html
 测试工程： https://github.com/iphoneReadingme/SpriteKitCode20150830.git
 代码分支：
 /trunk/03-Particles/step01
+
+1. 首先搭建一个脚本语言编译工程，通过最简单的代码编译测试，打印 "check out 工程代码："
+
+2. 编写代码下载脚本
 代码管理使用svn，下载代码其实就是用Python执行shell命令，代码如下：
 
 
