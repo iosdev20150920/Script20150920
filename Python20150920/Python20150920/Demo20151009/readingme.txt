@@ -1,0 +1,25 @@
+本脚本
+用Python编写IOS工程的自动编译脚本
+
+http://www.2cto.com/kf/201312/262436.html
+
+用Python语言写项目工程的自动编译脚本
+
+一. 目标
+此脚本要做到下面几个目标
+1. 每次编译都从服务器更新最新代码；
+2. 每次编译要自动修改info.plist里面的bundle version
+3. 每次编译都要编译出debug版本和可供发布的distribution版本，debug版本供测试人员使用，测试过后，直接使用对应的distribution版本提交到App Store;
+4. 编译出的包上传到服务器，并通过邮件通知相关人员，邮件内容是安装包的地址，如果编译失败，邮件内容是失败信息
+
+二、开发环境
+我们在Mac下用Python 开发，其实直接使用shell脚本也行，我是为了操作一些文件更为方便，编译器使用Sublime text2.
+
+三、前提条件
+开发证书和发布证快先安装好，工程配置里添加distribution项(复制 Release），并配置好对应的发布证书。
+
+四、check out 工程代码
+
+代码管理使用svn，下载代码其实就是用Python执行shell命令，代码如下：
+
+
