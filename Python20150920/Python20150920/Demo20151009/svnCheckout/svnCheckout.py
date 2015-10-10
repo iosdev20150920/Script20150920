@@ -7,6 +7,7 @@ yangfs
 #!/usr/bin/python
 import os
 
+
 class SourceSvnCheckout:
 	"check out 工程代码 类"
 
@@ -25,17 +26,21 @@ class SourceSvnCheckout:
 		print("svn Checkout source start:")
 
 		codeDir = self.codeDir
-		svnInfo = "%s --username %s -- password %s"%(self.svnPath, self.svnUserName, self.svnPassword)
+		# svnInfo = "%s --username=%s --password=%s"%(self.svnPath, self.svnUserName, self.svnPassword)
+		svnInfo = "%s"%(self.svnPath)
+		print(svnInfo)
+
 		os.system('rm -frd %s '%codeDir);
 		os.system('mkdir %s'%codeDir);
 
-		svnCmd = 'svn checkout %s -- no-interactive %s'%(svnInfo, codeDir)
+		# svnCmd = 'svn checkout %s -- no-interactive %s'%(svnInfo, codeDir)
+		svnCmd = 'svn checkout %s %s'%(svnInfo, codeDir)
 		os.system(svnCmd);
 		print("svn语句：%s"%(svnCmd))
 
 		retValue = False;
 		msg = 'checkOut code failed'
-		if os.path.exists('%sYourProjectName'%codeDir) == False:
+		if os.path.exists('%s/SpaceRun'%codeDir) == False:
 			msg = 'checkOut code failed'
 			print(msg)
 			self.buildSucced = False
