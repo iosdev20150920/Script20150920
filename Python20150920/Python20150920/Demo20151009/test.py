@@ -20,3 +20,19 @@ svnObject = SourceSvnCheckout(svnPath, svnUserName, svnPassword, codeDir)
 v = svnObject.checkoutCode()
 
 print(v);
+
+def getUUID():
+    "获取设备UUID"
+
+    udid = os.popen('''system_profiler SPUSBDataType | grep "Serial Number:.*" | sed s#".*Serial Number: "## ''').readlines()
+    if len(udid)>1:
+        for item in udid:
+            if len(item) < 20:
+                udid.remove(item)
+            else:
+                break
+
+    if len(udid)>0:
+        udid = udid[0].replace('\n','')
+
+    return udid

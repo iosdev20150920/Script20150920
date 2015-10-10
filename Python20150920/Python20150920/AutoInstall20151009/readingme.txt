@@ -2,5 +2,38 @@
 
 执行脚本后，将一ipa文件安装到手机设备上
 
+python /Users/yangfs/Desktop/B/Backup20150529/20150810_ios/trunk_Src20150920/Script20150920/Python20150920/Python20150920/AutoInstall20151009/installApp.py
+
+自动安装脚本路径
+github../Script20150920.git
+^/trunk/Python20150920/Python20150920/AutoInstall20151009
+
+/Desktop/E/20150920Python/AutoInstall20151009/UCBrowser_V10.7.5.650.ipa
+
+
+
+http://appium.io/slate/cn/master/?python#about-appium
+http://www.51testing.com/zhuanti/Appium.html
+
+ 下载fruitstrap.zip，执行 make fruitstrap 然后, 然后复制生成的 fruitstrap到app的所在的目录或上级目录下。
+yangfs-MBPR13-20150915:fruitstrap-master yangfs$ make fruitstrap
+
+手机UUID c5aeecc8150b073d013635727f0bee87c09344f3
+./fruitstrap -d -b <PATH_TO_APP> -i <Device_UDID>
+app 路径：/Users/yangfs/Library/Developer/Xcode/DerivedData/SpaceRun-ednbrrwaeipgxadekuzkpzmxvkgh/Build/Products/Debug-iphoneos/SpaceRun.app
+
+/Users/yangfs/Desktop/E/20150920Python/AutoInstall20151009/SpaceRun.app
+
+./fruitstrap -d -b ./SpaceRun.app -i c5aeecc8150b073d013635727f0bee87c09344f3
+
+报错：http://blog.pandafox.net
+[ !! ] Unable to locate DeviceSupport directory containing DeveloperDiskImage.dmg. [ !! ] Last path checked: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/Latest/DeveloperDiskImage.dmg
+fixed bug,进入目录： AutoInstall20151009 yangfs$ open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/9.0 (13A340)
+yangfs$ sudo ln -s 9.0\ \(13A340\)/ ./Latest
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/9.0 (13A340)/DeveloperDiskImage.dmg
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/9.0 (13A344)/DeveloperDiskImage.dmg
+home=/Users/yangfs, version=9.0, build=13A344
+
 
 
